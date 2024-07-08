@@ -1,5 +1,7 @@
 # Degrees of animacy and telicity in Hindi intransitives
 
+Joint work with Rajesh Bhatt and Shaunak Phadnis from UMass. 
+
 ## Background 
 
 We investigate the semantic correlates of the unergative/unaccusative distinction using Hindi corpus data. Intransitives have been argued to fall into two classes: unergatives only have an
