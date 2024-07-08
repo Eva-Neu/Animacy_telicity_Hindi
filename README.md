@@ -1,4 +1,4 @@
-# Animacy_telicity_Hindi
+# Degrees of animacy and telicity in Hindi intransitives
 
 ## Background 
 
